@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Young Teacher Teaching Competition Toolkit"
+message: "If you use this toolkit, please cite it as below."
+type: tool
+authors:
+  - alias: abmarkguo
+    website: "https://github.com/abmarkguo"
+keywords:
+  - teaching-competition
+  - instructional-design
+  - classroom-teaching
+  - teaching-reflection
+  - higher-education
+  - faculty-development
+  - china-education
+license: MIT
+version: 1.0.0
+date-released: 2026-07-17
+url: "https://github.com/abmarkguo/young-teacher-teaching-competition"
+preferred-citation:
+  type: software
+  title: "Young Teacher Teaching Competition Toolkit: A comprehensive preparation tool for China's National Young Teacher Teaching Competition"
+  authors:
+    - alias: abmarkguo
+  version: 1.0.0
+  date-released: 2026-07-17
+  url: "https://github.com/abmarkguo/young-teacher-teaching-competition"
