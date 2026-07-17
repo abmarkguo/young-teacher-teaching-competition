@@ -1,0 +1,80 @@
+<svg viewBox="0 0 680 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#16213e;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="680" height="520" fill="url(#bgGrad3)" rx="12"/>
+
+  <!-- Title -->
+  <text x="340" y="30" text-anchor="middle" fill="#e0e0e0" font-family="sans-serif" font-size="17" font-weight="bold">青教赛备赛全流程</text>
+  <text x="340" y="48" text-anchor="middle" fill="#888" font-family="sans-serif" font-size="11">12-Week Preparation Workflow</text>
+
+  <!-- Timeline arrow -->
+  <line x1="340" y1="70" x2="340" y2="490" stroke="#533483" stroke-width="2" stroke-dasharray="5,3"/>
+
+  <!-- Phase 1: 基础准备 -->
+  <circle cx="340" cy="100" r="18" fill="#e94560" opacity="0.9"/>
+  <text x="340" y="105" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="11" font-weight="bold">1</text>
+
+  <rect x="80" y="75" width="220" height="50" fill="#0f3460" rx="6" stroke="#533483" stroke-width="1"/>
+  <text x="190" y="95" text-anchor="middle" fill="#e0e0e0" font-family="sans-serif" font-size="11" font-weight="bold">基础准备（第1-4周）</text>
+  <text x="190" y="112" text-anchor="middle" fill="#888" font-family="sans-serif" font-size="9">研读规则→选题定课→教学设计→PPT初稿</text>
+
+  <rect x="380" y="75" width="220" height="50" fill="#16213e" rx="6" stroke="#533483" stroke-width="1" opacity="0.7"/>
+  <text x="490" y="95" text-anchor="middle" fill="#aaa" font-family="sans-serif" font-size="10">输出：教学设计+PPT初稿</text>
+  <text x="490" y="112" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="9">第一版试讲录音</text>
+
+  <!-- Phase 2: 模拟演练 -->
+  <circle cx="340" cy="185" r="18" fill="#0f3460" stroke="#e94560" stroke-width="2"/>
+  <text x="340" y="190" text-anchor="middle" fill="#e94560" font-family="sans-serif" font-size="11" font-weight="bold">2</text>
+
+  <rect x="80" y="160" width="220" height="50" fill="#0f3460" rx="6" stroke="#533483" stroke-width="1"/>
+  <text x="190" y="180" text-anchor="middle" fill="#e0e0e0" font-family="sans-serif" font-size="11" font-weight="bold">模拟演练（第5-8周）</text>
+  <text x="190" y="197" text-anchor="middle" fill="#888" font-family="sans-serif" font-size="9">试讲录音→录像分析→同事互评→专家指导</text>
+
+  <rect x="380" y="160" width="220" height="50" fill="#16213e" rx="6" stroke="#533483" stroke-width="1" opacity="0.7"/>
+  <text x="490" y="180" text-anchor="middle" fill="#aaa" font-family="sans-serif" font-size="10">输出：修改稿+试讲视频</text>
+  <text x="490" y="197" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="9">语言/教态问题清单</text>
+
+  <!-- Phase 3: 精修打磨 -->
+  <circle cx="340" cy="270" r="18" fill="#0f3460" stroke="#e94560" stroke-width="2"/>
+  <text x="340" y="275" text-anchor="middle" fill="#e94560" font-family="sans-serif" font-size="11" font-weight="bold">3</text>
+
+  <rect x="80" y="245" width="220" height="50" fill="#0f3460" rx="6" stroke="#533483" stroke-width="1"/>
+  <text x="190" y="265" text-anchor="middle" fill="#e0e0e0" font-family="sans-serif" font-size="11" font-weight="bold">精修打磨（第9-10周）</text>
+  <text x="190" y="282" text-anchor="middle" fill="#888" font-family="sans-serif" font-size="9">逐页优化PPT→逐句优化讲稿→二次专家指导</text>
+
+  <rect x="380" y="245" width="220" height="50" fill="#16213e" rx="6" stroke="#533483" stroke-width="1" opacity="0.7"/>
+  <text x="490" y="265" text-anchor="middle" fill="#aaa" font-family="sans-serif" font-size="10">输出：终版材料</text>
+  <text x="490" y="282" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="9">板书设计定稿</text>
+
+  <!-- Phase 4: 冲刺阶段 -->
+  <circle cx="340" cy="355" r="18" fill="#e94560" opacity="0.9"/>
+  <text x="340" y="360" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="11" font-weight="bold">4</text>
+
+  <rect x="80" y="330" width="220" height="50" fill="#0f3460" rx="6" stroke="#533483" stroke-width="1"/>
+  <text x="190" y="350" text-anchor="middle" fill="#e0e0e0" font-family="sans-serif" font-size="11" font-weight="bold">冲刺阶段（第11-12周）</text>
+  <text x="190" y="367" text-anchor="middle" fill="#888" font-family="sans-serif" font-size="9">全流程模拟→心理调适→应变方案</text>
+
+  <rect x="380" y="330" width="220" height="50" fill="#16213e" rx="6" stroke="#533483" stroke-width="1" opacity="0.7"/>
+  <text x="490" y="350" text-anchor="middle" fill="#aaa" font-family="sans-serif" font-size="10">输出：比赛状态</text>
+  <text x="490" y="367" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="9">心理就绪</text>
+
+  <!-- Competition Day -->
+  <rect x="250" y="420" width="180" height="55" fill="#e94560" rx="10" opacity="0.9"/>
+  <text x="340" y="442" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="13" font-weight="bold">竞赛日</text>
+  <text x="340" y="460" text-anchor="middle" fill="#fff" font-family="sans-serif" font-size="9">抽签→20分钟课堂→45分钟反思</text>
+
+  <!-- Key checkpoints on timeline -->
+  <text x="340" y="135" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="8">▼</text>
+  <text x="340" y="220" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="8">▼</text>
+  <text x="340" y="305" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="8">▼</text>
+  <text x="340" y="390" text-anchor="middle" fill="#666" font-family="sans-serif" font-size="8">▼</text>
+
+  <!-- Five tracks indicator -->
+  <rect x="20" y="490" width="640" height="25" fill="#0f3460" rx="4" opacity="0.5"/>
+  <text x="340" y="507" text-anchor="middle" fill="#888" font-family="sans-serif" font-size="10">五大学科组别：文科 · 理科 · 工科 · 医科 · 思想政治课专项 ｜ 三级竞赛：校赛 → 省赛 → 国赛</text>
+</svg>
